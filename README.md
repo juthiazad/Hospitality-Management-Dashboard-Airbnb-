@@ -5,5 +5,7 @@ This Hospitality Management Dashboard (Airbnb) shows revenue performance, bookin
 Key Highlights:
 
 .Total Revenue: $29.6M with 44.2K cancellations impacting revenue.
+
 .Most cancellations come from online travel agents (43%) and transient customers (40.8%).
+
 .Portugal, UK, and France are the top revenue-generating countries.
